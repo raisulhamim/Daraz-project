@@ -1,0 +1,64 @@
+.container{
+    width: 1320px;
+
+}
+.box{
+    display: flex;
+}
+ul,ol{
+    list-style: none;
+    cursor: pointer;
+
+}
+a{
+    text-decoration: none;
+
+}
+/*----------- manu strat------- */
+.logo{
+    width: 20%;
+
+}
+.manu{
+    width: 80%;
+}
+
+nav{
+     background: #F85606;
+      padding: 44px 0px;
+}
+nav .box{
+    display: flex;
+    align-items: center;
+}
+.manu ul{
+    display: flex ;
+    list-style: none;
+    column-gap: 59px;
+    /* position: relative; */
+  
+    
+}
+.manu ul li{
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+     
+
+}
+.manu{
+    position: relative;
+}
+.manu  ul{
+   position: absolute;
+   top: -80px;
+   right: 0;
+}
+
+
+
+
+
+
+/*----------- manu end------- */
