@@ -55,10 +55,30 @@ nav .box{
    top: -80px;
    right: 0;
 }
+.me-2{
+   
+    width: 800px;
+    position: absolute;
+    top: -130px;
+    right: -1200px;
+    text-decoration-color: black;
+}
+.searchbox{
+     background: #F85606;
+      padding: 20px 0px;
 
-
-
-
-
+}
+.box001{
+    position: relative;
+}
 
 /*----------- manu end------- */
+.slide{
+    width: 80%;
+}
+.pic2{
+    width: 20%;
+}
+.pic2 img{
+    height: 370px;
+}
