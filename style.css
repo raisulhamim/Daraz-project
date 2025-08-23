@@ -82,3 +82,93 @@ nav .box{
 .pic2 img{
     height: 370px;
 }
+.banner20{
+    margin-left: 110px;
+}
+.lekha1 h3{
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Noto Sans", sans-serif;
+}
+.heding{
+    font-size: 14px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+    padding-left: 20px;
+    
+}
+.buton1{
+    text-decoration: none;
+    padding: 5px 15px;
+    background: transparent;
+    border: 1px solid #f57224;
+    font-size: 14px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+    margin-left: 1000px;
+}
+.start{
+    background: #F5F5F5;
+     border-bottom: 1px solid rgba(77, 75, 75, 0.3); 
+     padding: 15px 0px;
+}
+.productpart .product1{
+    width: 219px;
+
+}
+.productpart .product2{
+    width: 219px;
+
+}
+.productpart .product3{
+    width: 219px;
+
+}
+.productpart .product4{
+    width: 219px;
+
+}
+.productpart .product5{
+    width: 219px;
+
+}
+.productpart .product6{
+    width: 219px;
+
+}
+
+.product1 .card-text{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
+}
+.product1 h3{
+     font-size: 18px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+.product1 .text-body-secondary{
+    opacity: 0.4;
+
+}
+.product1 .text-body-secondary span{
+    opacity: 1;
+}
+.product1{
+    background: transparent;
+    border: 1px solid #F5F5F5 ;
+    transition: .4s;
+}
+.product1:hover{
+       background: #fae3b6;
+    border-color: rgba(0,0,0,0.05);
+    box-shadow: 8px 16px 15px -8px rgba(0,0,0,0.15);
+-webkit-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+-moz-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+}
+.product{
+    display: flex;
+}
