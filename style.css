@@ -115,30 +115,38 @@ nav .box{
      padding: 15px 0px;
 }
 .productpart .product1{
-    width: 219px;
+    width: 300px;
+    height: 300px;
+    
 
 }
 .productpart .product2{
-    width: 219px;
+   width: 300px;
+    height: 300px;
+    
 
 }
 .productpart .product3{
-    width: 219px;
+   width: 300px;
+    height: 300px;
+    
 
 }
 .productpart .product4{
-    width: 219px;
-
+    width: 300px;
+    height: 300px;
+    
 }
 .productpart .product5{
-    width: 219px;
-
+    width: 300px;
+    height: 300px;
+    
 }
 .productpart .product6{
-    width: 219px;
-
-}
-
+   width: 300px;
+    height: 300px;
+    
+} 
 .product1 .card-text{
     font-size: 14px;
     font-weight: 600;
@@ -161,6 +169,7 @@ nav .box{
     background: transparent;
     border: 1px solid #F5F5F5 ;
     transition: .4s;
+    display: inline-block;
 }
 .product1:hover{
        background: #fae3b6;
@@ -169,6 +178,165 @@ nav .box{
 -webkit-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
 -moz-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
 }
-.product{
-    display: flex;
+
+.product2 .card-text{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
 }
+.product2 h3{
+     font-size: 18px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+.product2 .text-body-secondary{
+    opacity: 0.4;
+
+}
+.product2 .text-body-secondary span{
+    opacity: 1;
+}
+.product2{
+    background: transparent;
+    border: 1px solid #F5F5F5 ;
+    transition: .4s;
+    display: inline-block;
+}
+.product2:hover{
+       background: #fae3b6;
+    border-color: rgba(0,0,0,0.05);
+    box-shadow: 8px 16px 15px -8px rgba(0,0,0,0.15);
+-webkit-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+-moz-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+}
+.product3 .card-text{
+    font-size: 11px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
+}
+.product3 h3{
+     font-size: 18px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+.product3 .text-body-secondary{
+    opacity: 0.4;
+
+}
+.product3 .text-body-secondary span{
+    opacity: 1;
+}
+.product3{
+    background: transparent;
+    border: 1px solid #F5F5F5 ;
+    transition: .4s;
+    display: inline-block;
+}
+.product3:hover{
+       background: #fae3b6;
+    border-color: rgba(0,0,0,0.05);
+    box-shadow: 8px 16px 15px -8px rgba(0,0,0,0.15);
+-webkit-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+-moz-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+}
+.product4 .card-text{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
+}
+.product4 h3{
+     font-size: 18px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+.product4 .text-body-secondary{
+    opacity: 0.4;
+
+}
+.product4 .text-body-secondary span{
+    opacity: 1;
+}
+.product4{
+    background: transparent;
+    border: 1px solid #F5F5F5 ;
+    transition: .4s;
+    display: inline-block;
+}
+.product4:hover{
+       background: #fae3b6;
+    border-color: rgba(0,0,0,0.05);
+    box-shadow: 8px 16px 15px -8px rgba(0,0,0,0.15);
+-webkit-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+-moz-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+}
+.product5 .card-text{
+    font-size: 13px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
+}
+.product5 h3{
+     font-size: 23px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+.product5 .text-body-secondary{
+    opacity: 0.4;
+
+}
+.product5 .text-body-secondary span{
+    opacity: 1;
+}
+.product5{
+    background: transparent;
+    border: 1px solid #F5F5F5 ;
+    transition: .4s;
+    display: inline-block;
+    
+}
+.product5:hover{
+       background: #fae3b6;
+    border-color: rgba(0,0,0,0.05);
+    box-shadow: 8px 16px 15px -8px rgba(0,0,0,0.15);
+-webkit-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+-moz-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+}
+.product6 .card-text{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
+}
+.product6 h3{
+     font-size: 18px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+.product6 .text-body-secondary{
+    opacity: 0.4;
+
+}
+.product6 .text-body-secondary span{
+    opacity: 1;
+}
+.product6{
+    background: transparent;
+    border: 1px solid #F5F5F5 ;
+    transition: .4s;
+    display: inline-block;
+}
+.product6:hover{
+       background: #fae3b6;
+    border-color: rgba(0,0,0,0.05);
+    box-shadow: 8px 16px 15px -8px rgba(0,0,0,0.15);
+-webkit-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+-moz-box-shadow: 1px 8px 9px -4px rgba(0,0,0,0.15);
+
+}
+.card{
+    height: 100%;
+}
+
