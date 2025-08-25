@@ -167,7 +167,7 @@ nav .box{
 }
 .product1{
     background: transparent;
-    border: 1px solid #F5F5F5 ;
+    /* border: 1px solid #F5F5F5 ; */
     transition: .4s;
     display: inline-block;
 }
@@ -197,7 +197,7 @@ nav .box{
 }
 .product2{
     background: transparent;
-    border: 1px solid #F5F5F5 ;
+    /* border: 1px solid #F5F5F5 ; */
     transition: .4s;
     display: inline-block;
 }
@@ -226,7 +226,7 @@ nav .box{
 }
 .product3{
     background: transparent;
-    border: 1px solid #F5F5F5 ;
+    /* border: 1px solid #F5F5F5 ; */
     transition: .4s;
     display: inline-block;
 }
@@ -255,7 +255,7 @@ nav .box{
 }
 .product4{
     background: transparent;
-    border: 1px solid #F5F5F5 ;
+    /* border: 1px solid #F5F5F5 ; */
     transition: .4s;
     display: inline-block;
 }
@@ -284,7 +284,7 @@ nav .box{
 }
 .product5{
     background: transparent;
-    border: 1px solid #F5F5F5 ;
+    /* border: 1px solid #F5F5F5 ; */
     transition: .4s;
     display: inline-block;
     
@@ -314,7 +314,7 @@ nav .box{
 }
 .product6{
     background: transparent;
-    border: 1px solid #F5F5F5 ;
+    /* border: 1px solid #F5F5F5 ; */
     transition: .4s;
     display: inline-block;
 }
@@ -369,7 +369,7 @@ nav .box{
 .c7{
     width: 175px;
     height: 220px;
-    background: #F5F5F5;
+    background:#F5F5F5 ;
 }
 .c8{
     width: 175px;
@@ -381,104 +381,105 @@ nav .box{
     font-size: 14px;
     font-weight: 400;
      font-family: "Noto Sans", sans-serif;
+  
 }
 .cetagory img{
     width: 100%;
 }
 .c1{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
  .c1:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+    box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 .c2{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
 .c2:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 .c3{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
 .c3:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+        box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 .c4{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
 .c4:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+     box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 .c5{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
 .c5:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 .c6{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
 .c6:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 .c7{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
 .c7:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 .c8{
-    background: transparent;
+    /* background: transparent; */
     border: 1px solid #F5F5F5 ;
     transition: .4s;
     display: inline-block;
 }
 .c8:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
 
