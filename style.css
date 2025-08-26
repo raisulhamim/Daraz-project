@@ -1,5 +1,6 @@
-.container{
+.container1{
     width: 1320px;
+    
 
 }
 .box{
@@ -481,5 +482,68 @@ nav .box{
 -webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 -moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
+}
+.justme .j1{
+    width: 215px;
+    height: 350px;
+    
+
+}
+/* .productpart .product2{
+    width: 300px;
+    height: 350px;
+    
+
+}
+.productpart .product3{
+    width: 300px;
+    height: 350px;
+    
+
+}
+.productpart .product4{
+     width: 300px;
+    height: 350px;
+    
+}
+.productpart .product5{
+     width: 300px;
+    height: 350px;
+    
+}
+.productpart .product6{
+   width: 300px;
+    height: 350px;
+    
+}  */
+.j1 .card-text{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
+}
+.j1 h3{
+     font-size: 18px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.j1  span{
+   color: black ;
+   font-size: 14px;
+}
+.j1{
+    background: transparent;
+    /* border: 1px solid #F5F5F5 ; */
+    transition: .4s;
+    display: inline-block;
+}
+.j1:hover{
+            box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+}
+.j1 .card-body{
+    background: white;
 }
 
