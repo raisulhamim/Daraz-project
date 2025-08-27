@@ -530,14 +530,17 @@ nav .box{
     display: inline-block;
 }
 .item:hover{
-      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.3);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.3);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.3);
 
 }
 .justme .j2 {
     padding-left: 8px;
 }
-
+.justmetwo{
+    display: flex;
+    margin-top: 30px;
+}
 
 
