@@ -483,108 +483,61 @@ nav .box{
 -moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
-.justme .j1{
-    width: 215px;
-    height: 350px;
-    
-
+.justme{
+    display: flex;
 }
-.justme .j2{
-    width: 215px;
-    height: 350px;
-    
-
-}
-
-
-/* .justme .j3{
-   width: 215px;
-    height: 350px;
-    
-
-}
-.justme .j4{
-    width: 215px;
-    height: 350px;
-    
-}
-.justme .j5{
-     width: 215px;
-    height: 350px;
-    
-}
-.justme .j6{
-   width: 215px;
-    height: 350px;
-    
-}  */
-.j1 .card-text{
-    font-size: 14px;
-    font-weight: 600;
-    font-family: "Noto Sans", sans-serif;
-}
-.j1 h3{
-     font-size: 17px;
-    font-weight: 600;
-    color: #f57224;
-    font-family: "Noto Sans", sans-serif;
-}
-
-.j1  span{
-   color: black ;
-   font-size: 14px;
-}
-.j1{
-    background: white;
-    /* border: 1px solid #F5F5F5 ; */
-    transition: .4s;
-    display: inline-block;
-}
-.j1 .card-group{
-    height: 100%;
-    width: 100%;
-}
-.j1:hover{
-            box-shadow: -1px 16px 14px 6px rgba(0,0,0,1);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,1);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,1);
-}
-.j1 .card-body{
-    background: white;
-}
-.j2 .card-text{
-    font-size: 12px;
-    font-weight: 600;
-    font-family: "Noto Sans", sans-serif;
-}
-.j2 h3{
-     font-size: 15px;
-    font-weight: 600;
-    color: #f57224;
-    font-family: "Noto Sans", sans-serif;
-}
-
-.j2  span{
-   color: black ;
-   font-size: 14px;
-}
-.j2{
-    background: transparent;
-    /* border: 1px solid #F5F5F5 ; */
-    transition: .4s;
-    display: inline-block;
-}
-.j2:hover{
-            box-shadow: -1px 16px 14px 6px rgba(0,0,0,1);
--webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,1);
--moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,1);
-}
-.j2 .card-body{
-    background: white;
+.justme .item{
+    width: 216px;
+    height: 300px;
+    background: #ffffff;
    
+}
+.justme .item .j1{
+    width: 216px;
+    height: 60%;
+   
+}
+.j1 img{
+    width: 100%;
+    height: 100%;
+}
+.justme .item .j2{
+    width: 216px;
+    height: 40%;
+    background: rgb(255, 255, 255);
+}
+
+.justme .item .j2 h3{
+ font-size: 18px;
+    font-weight: 600;
+    color: #f57224;
+    font-family: "Noto Sans", sans-serif;
+}
+.justme .j2 .card-text{
+      font-size: 14px;
+    font-weight: 600;
+    font-family: "Noto Sans", sans-serif;
+}
+.justme .item .j2 span{
+    font-size: 12px;
+    color: black;
+    font-weight: 500;
+}
+.justme .item{
+    /* background: transparent; */
+    border: 1px solid #F5F5F5 ;
+    transition: .4s;
+    display: inline-block;
+}
+.item:hover{
+      box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
+-moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.1);
 
 }
-/* .j1 p img{
-    margin-bottom: -20px;
-} */
+.justme .j2 {
+    padding-left: 8px;
+}
+
+
 
