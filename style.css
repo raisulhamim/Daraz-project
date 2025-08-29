@@ -13,6 +13,7 @@ ul,ol{
 }
 a{
     text-decoration: none;
+    color:black;
 
 }
 /*----------- manu strat------- */
@@ -542,5 +543,16 @@ nav .box{
     display: flex;
     margin-top: 30px;
 }
+.load a{
+  
+    padding: 10px 200px;
+    border: 1px solid rgb(52, 148, 204);
+  
+    
 
+}
+.load{
+    margin-top: 50px;
+    margin-left: 800px;
+}
 
