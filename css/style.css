@@ -73,6 +73,10 @@ nav .box{
 .box001{
     position: relative;
 }
+.bannerimg{
+    background-color: #F5F5F5;
+}
+
 
 /*----------- manu end------- */
 .slide{
@@ -547,12 +551,176 @@ nav .box{
   
     padding: 10px 200px;
     border: 1px solid rgb(52, 148, 204);
+    color:rgb(52, 148, 204) ;
   
     
 
 }
 .load{
     margin-top: 50px;
-    margin-left: 800px;
+    margin-left: 680px;
+}
+.last{
+    margin-top: 50px;
+    background: #F5F5F5;
+}
+.last .onepoint{
+     width: 330px;
+     height: 500px;
+    
+}
+.onepoint h3{
+    font-size: 16px;
+    font-weight: 500;
+     font-family: "Noto Sans", sans-serif;
+     margin-left: 27px;
+     margin-top: 20px;
+}
+.onepoint ul li{
+    font-size: 12px;
+    font-weight: 500;
+     font-family: "Noto Sans", sans-serif;
+     line-height: 20px;
+}
+.twopoint h3{
+    font-size: 16px;
+    font-weight: 500;
+     font-family: "Noto Sans", sans-serif;
+     margin-left: 27px;
+     margin-top: 20px;
+}
+.twopoint ul li{
+    font-size: 12px;
+    font-weight: 500;
+     font-family: "Noto Sans", sans-serif;
+     line-height: 20px;
+}
+.last .twopoint{
+     width: 330px;
+     height: 500px;
+     
+}
+.last .threepoint{
+     width: 330px;
+     height: 500px;
+     
+}
+.threepoint img{
+    margin-left: 27px;
+     margin-top: 20px;
+}
+.fourpoint img{
+   
+     margin-top: 20px;
+}
+.last .fourpoint{
+     width: 330px;
+     height: 500px;
+     
+}
+.last2 .payment{
+     width: 330px;
+     height: 500px;
+     
+}
+.last2 .verify{
+     width: 330px;
+     height: 500px;
+     
+}
+.last2 .dbi{
+     width: 330px;
+     height: 400px;
+     
+}
+.last2 h3{
+    margin-top: 40px;
+    font-size: 16px;
+     font-family: "Noto Sans", sans-serif;
+
+}
+.last2 .verify h3{
+    margin-top: 40px;
+    font-size: 16px;
+     font-family: "Noto Sans", sans-serif;
+     margin-left: 40px;
+
+}
+.last2 .verify img{
+    margin-left: 40px;
+
+}
+.last3{
+    background: #F5F5F5;
+}
+.last3 .text1{
+     width: 250px;
+     height: 2000px;
+     
+}
+.last3 .text2{
+     width: 300px;
+     height: 2000px;
+     
+     
+}
+.last3 .text3{
+     width: 300px;
+     height: 2000px;
+     
+     
+}
+.last3 .text4{
+      width: 350px;
+     height: 2000px;
+     
+     
+}
+.last3 h3{
+    font-size: 16px;
+    font-weight: 500;
+    color: #606060;
+    margin-top: 20px;
+}
+.last3 p{
+    font-size: 12px;
+    font-weight: 400;
+    color: #888888;
+    margin-top: 20px;
+}
+.last3 .text2 h3{
+    font-size: 16px;
+    font-weight: 500;
+    color: #606060;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.last3 .text2 p{
+    font-size: 12px;
+    font-weight: 400;
+    color: #888888;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.last3 .text3 h3{
+    font-size: 16px;
+    font-weight: 500;
+    color: #606060;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.last3 .text3 p{
+    font-size: 12px;
+    font-weight: 400;
+    color: #888888;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.last3 .text4 p{
+    font-size: 12px;
+    font-weight: 400;
+    color: #888888;
+    margin-top: 20px;
+    margin-left: 60px;
 }
 
