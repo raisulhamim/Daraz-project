@@ -57,6 +57,9 @@ nav .box{
    top: -80px;
    right: 0;
 }
+.manu li a{
+    color: white;
+}
 .me-2{
    
     width: 800px;
