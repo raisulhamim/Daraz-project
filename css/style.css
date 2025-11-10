@@ -102,7 +102,7 @@ nav .box{
 .heding{
     font-size: 14px;
     font-weight: 600;
-    color: #f57224;
+    color: #ff6d18;
     font-family: "Noto Sans", sans-serif;
     padding-left: 20px;
     
@@ -181,7 +181,7 @@ nav .box{
     display: inline-block;
 }
 .product1:hover{
-            box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
+ box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
 -webkit-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
 -moz-box-shadow: -1px 16px 14px 6px rgba(0,0,0,0.54);
 }
