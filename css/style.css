@@ -78,6 +78,7 @@ nav .box{
 }
 .bannerimg{
     background-color: #F5F5F5;
+    display: flex;
 }
 
 
@@ -102,7 +103,7 @@ nav .box{
 .heding{
     font-size: 14px;
     font-weight: 600;
-    color: #ff6d18;
+    color: #ff6d18ee;
     font-family: "Noto Sans", sans-serif;
     padding-left: 20px;
     
@@ -111,10 +112,10 @@ nav .box{
     text-decoration: none;
     padding: 5px 15px;
     background: transparent;
-    border: 1px solid #f57224;
+    border: 1px solid #f57124ee;
     font-size: 14px;
     font-weight: 600;
-    color: #f57224;
+    color: #f57124d8;
     font-family: "Noto Sans", sans-serif;
     margin-left: 1000px;
 }
