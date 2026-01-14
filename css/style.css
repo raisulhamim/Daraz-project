@@ -18,16 +18,16 @@ a{
 }
 /*----------- manu strat------- */
 .logo{
-    width: 21%;
+    width: 20%;
 
 }
 .manu{
-    width: 79%;
+    width: 80%;
 }
 
 nav{
      background: #f85706e9;
-      padding: 44px 0px;
+     padding: 44px 0px;
 }
 nav .box{
     display: flex;
