@@ -26,7 +26,7 @@ a{
 }
 
 nav{
-     background: #f85706e9;
+     background: #f85706;
      padding: 44px 0px;
 }
 nav .box{
@@ -69,7 +69,7 @@ nav .box{
     text-decoration-color: black;
 }
 .searchbox{
-     background: #F85606;
+     background: #f85606;
       padding: 20px 0px;
 
 }
@@ -103,7 +103,7 @@ nav .box{
 .heding{
     font-size: 14px;
     font-weight: 600;
-    color: #ff6d18ee;
+    color: #ff6d1800;
     font-family: "Noto Sans", sans-serif;
     padding-left: 20px;
     
